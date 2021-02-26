@@ -1,5 +1,5 @@
 # Vinyl
-A 3D game I developed a long time ago in Unity. I loved music and playing around with records so I created a little turntable simulator.
+A 3D game I developed with Unity back in 2017. I loved music and playing around with records so I created a little turntable simulator.
 
 Click this image to redirect to my demonstration video.
 
